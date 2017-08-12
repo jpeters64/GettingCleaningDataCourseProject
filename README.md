@@ -1,4 +1,5 @@
 ##Getting and Cleaning Data Course Project README
+
 Jeremy Peters
 
 This repository contains the R code and documentation files for the coursera Data Science "Getting and Cleaning data" course 
@@ -26,14 +27,16 @@ Create one R script called run_analysis.R that does the following:
 
 ## Program run_analysis.R
 
-run_analysis.R file contains all the code to perform the project tasks described above
-CodeBook.MD file  contains information about the data used, variables created, and transformations performed in run_analysis.R.
-combinedDatasetSummary.txt file contains the output of the program as described by task 5 above
+- run_analysis.R file contains all the code to perform the project tasks described above
+
+- CodeBook.MD file  contains information about the data used, variables created, and transformations performed in run_analysis.R.
+
+- combinedDatasetSummary.txt file contains the output of the program as described by task 5 above
 
 In order to run the program do the following:
-a. Download the "getdata_projectfiles_UCI HAR Dataset.zip" file from the URL specified above
-b. Unzip it unmodified into you R working directory so that you see a "UCI HAR Dataset" directory directly under your R working directory
-c. Import run_analysis.R into RStudio
+-  Download the "getdata_projectfiles_UCI HAR Dataset.zip" file from the URL specified above
+- Unzip it unmodified into you R working directory so that you see a "UCI HAR Dataset" directory directly under your R working directory
+- Import run_analysis.R into RStudio
 
 
 
